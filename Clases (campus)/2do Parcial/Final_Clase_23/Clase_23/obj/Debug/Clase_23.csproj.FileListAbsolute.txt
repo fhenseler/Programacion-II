@@ -1,0 +1,12 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_23\bin\Debug\Clase_23.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_23\obj\Debug\Clase_23.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_23\obj\Debug\Clase_23.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_23\Clase_23\bin\Debug\Clase_23.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_23\Clase_23\obj\Debug\Clase_23.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_23\Clase_23\obj\Debug\Clase_23.pdb
+D:\Escritorio\Clases (campus)\Final_Clase_23\Clase_23\bin\Debug\Clase_23.exe.config
+D:\Escritorio\Clases (campus)\Final_Clase_23\Clase_23\bin\Debug\Clase_23.exe
+D:\Escritorio\Clases (campus)\Final_Clase_23\Clase_23\bin\Debug\Clase_23.pdb
+D:\Escritorio\Clases (campus)\Final_Clase_23\Clase_23\obj\Debug\Clase_23.csproj.CoreCompileInputs.cache
+D:\Escritorio\Clases (campus)\Final_Clase_23\Clase_23\obj\Debug\Clase_23.exe
+D:\Escritorio\Clases (campus)\Final_Clase_23\Clase_23\obj\Debug\Clase_23.pdb
