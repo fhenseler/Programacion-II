@@ -1,0 +1,7 @@
+select (campos)
+from (tabla)
+inner join (tabla 2)
+on (relacion)
+where (filtro)
+
+provincia y al elegirla que filtre las localidades (2 combo box) - GITHUB PROFE ezequieloggioni

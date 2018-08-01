@@ -1,0 +1,5 @@
+D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Excepciones\bin\Debug\Excepciones.dll
+D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Excepciones\bin\Debug\Excepciones.pdb
+D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Excepciones\obj\Debug\Excepciones.dll
+D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Excepciones\obj\Debug\Excepciones.pdb

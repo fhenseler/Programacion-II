@@ -1,0 +1,33 @@
+D:\DG\Ej_37\Ej_37\bin\Debug\Ej_37.exe.config
+D:\DG\Ej_37\Ej_37\bin\Debug\Ej_37.exe
+D:\DG\Ej_37\Ej_37\bin\Debug\Ej_37.pdb
+D:\DG\Ej_37\Ej_37\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+D:\DG\Ej_37\Ej_37\obj\Debug\Ej_37.exe
+D:\DG\Ej_37\Ej_37\obj\Debug\Ej_37.pdb
+C:\Users\lucas\Documents\Daniela\Daniela\facu\TERCER CUATRIMESTRE\PROGRAMACION Y LABO\Ej_40\Ej_37\bin\Debug\Ej_37.exe.config
+C:\Users\lucas\Documents\Daniela\Daniela\facu\TERCER CUATRIMESTRE\PROGRAMACION Y LABO\Ej_40\Ej_37\obj\Debug\Ej_37.exe
+C:\Users\lucas\Documents\Daniela\Daniela\facu\TERCER CUATRIMESTRE\PROGRAMACION Y LABO\Ej_40\Ej_37\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Daniela\Daniela\facu\TERCER CUATRIMESTRE\PROGRAMACION Y LABO\Ej_40\Ej_37\bin\Debug\Ej_37.exe
+C:\Users\lucas\Documents\Daniela\Daniela\facu\TERCER CUATRIMESTRE\PROGRAMACION Y LABO\Ej_40\Ej_37\bin\Debug\Ej_37.pdb
+C:\Users\lucas\Documents\Daniela\Daniela\facu\TERCER CUATRIMESTRE\PROGRAMACION Y LABO\Ej_40\Ej_37\obj\Debug\Ej_37.pdb
+D:\DG\Ej_40\Ej_37\bin\Debug\Ej_37.exe.config
+D:\DG\Ej_40\Ej_37\obj\Debug\Ej_37.exe
+D:\DG\Ej_40\Ej_37\obj\Debug\Ej_37.pdb
+D:\DG\Ej_40\Ej_37\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+D:\DG\Ej_40\Ej_37\obj\Debug\Ej_40.FormCentralita.resources
+D:\DG\Ej_40\Ej_37\obj\Debug\CentralitaHerencia.csproj.GenerateResource.Cache
+D:\DG\Ej_40\Ej_37\bin\Debug\Ej_37.exe
+D:\DG\Ej_40\Ej_37\bin\Debug\Ej_37.pdb
+D:\DG\Ej_40\Ej_37\obj\Debug\Ej_40.FrmLlamada.resources
+C:\Users\alumno\Downloads\Ej_40\Ej_37\bin\Debug\Ej_37.exe.config
+C:\Users\alumno\Downloads\Ej_40\Ej_37\obj\Debug\Ej_37.exe
+C:\Users\alumno\Downloads\Ej_40\Ej_37\obj\Debug\Ej_37.pdb
+C:\Users\alumno\Downloads\Ej_40\Ej_37\bin\Debug\Ej_37.exe
+C:\Users\alumno\Downloads\Ej_40\Ej_37\bin\Debug\Ej_37.pdb
+C:\Users\alumno\Downloads\Ej_40\Ej_37\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Ej_40\Ej_37\obj\Debug\Ej_40.FormCentralita.resources
+C:\Users\alumno\Downloads\Ej_40\Ej_37\obj\Debug\Ej_40.FrmLlamada.resources
+C:\Users\alumno\Downloads\Ej_40\Ej_37\obj\Debug\CentralitaHerencia.csproj.GenerateResource.Cache
+D:\clasesprog2fh\Ejercicios Guía\Ej_40\Ej_37\bin\Debug\Ej_37.exe.config
+D:\clasesprog2fh\Ejercicios Guía\Ej_40\Ej_37\obj\Debug\Ej_37.exe
+D:\clasesprog2fh\Ejercicios Guía\Ej_40\Ej_37\obj\Debug\Ej_37.pdb

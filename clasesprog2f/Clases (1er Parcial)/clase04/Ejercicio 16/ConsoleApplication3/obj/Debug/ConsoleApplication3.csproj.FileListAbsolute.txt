@@ -1,0 +1,13 @@
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 16\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 16\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 16\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 16\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 16\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 16\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 16\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

@@ -1,0 +1,24 @@
+D:\VisualStudio\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\VisualStudio\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\VisualStudio\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\VisualStudio\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\VisualStudio\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\clasesprog2fh\clase04\Ejercicio 19\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\clasesprog2fh\clase04\Ejercicio 19\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\clasesprog2fh\clase04\Ejercicio 19\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\clasesprog2fh\clase04\Ejercicio 19\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 19\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 19\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 19\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 19\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 19\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 19\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\Escritorio\clasesprog2fh\clase04\Ejercicio 19\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 19\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 19\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 19\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 19\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 19\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 19\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 19\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

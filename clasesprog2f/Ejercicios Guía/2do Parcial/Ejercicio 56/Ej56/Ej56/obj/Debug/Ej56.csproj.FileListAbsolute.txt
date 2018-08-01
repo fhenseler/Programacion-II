@@ -1,0 +1,7 @@
+D:\Escritorio\clasesprog2fh\Clase 20\Ejercicio_56\Ej56\Ej56\bin\Debug\Ej56.exe.config
+D:\Escritorio\clasesprog2fh\Clase 20\Ejercicio_56\Ej56\Ej56\bin\Debug\Ej56.exe
+D:\Escritorio\clasesprog2fh\Clase 20\Ejercicio_56\Ej56\Ej56\bin\Debug\Ej56.pdb
+D:\Escritorio\clasesprog2fh\Clase 20\Ejercicio_56\Ej56\Ej56\obj\Debug\Ej56.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Clase 20\Ejercicio_56\Ej56\Ej56\obj\Debug\Ej56.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\Clase 20\Ejercicio_56\Ej56\Ej56\obj\Debug\Ej56.exe
+D:\Escritorio\clasesprog2fh\Clase 20\Ejercicio_56\Ej56\Ej56\obj\Debug\Ej56.pdb

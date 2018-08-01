@@ -1,0 +1,31 @@
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.csprojResolveAssemblyReference.cache
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.frmLlamada.resources
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.Properties.Resources.resources
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.csproj.GenerateResource.Cache
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\frmLlamada.exe.config
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\frmLlamada.exe
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\frmLlamada.pdb
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.exe
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.pdb
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.frmLlamada.resources
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.Properties.Resources.resources
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.csproj.GenerateResource.Cache
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.exe
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\frmLlamada.exe.config
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\frmLlamada.exe
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\frmLlamada.pdb
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\Ejercicio 37 (Central Telefónica).exe
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\Ejercicio 37 (Central Telefónica).pdb
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.pdb
+D:\clasesprog2fh\Clase 17\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\frmLlamada.exe.config
+D:\clasesprog2fh\Clase 17\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\frmLlamada.exe
+D:\clasesprog2fh\Clase 17\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\frmLlamada.pdb
+D:\clasesprog2fh\Clase 17\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\Ejercicio 37 (Central Telefónica).exe
+D:\clasesprog2fh\Clase 17\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\bin\Debug\Ejercicio 37 (Central Telefónica).pdb
+D:\clasesprog2fh\Clase 17\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\Clase 17\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.frmLlamada.resources
+D:\clasesprog2fh\Clase 17\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.Properties.Resources.resources
+D:\clasesprog2fh\Clase 17\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.csproj.GenerateResource.Cache
+D:\clasesprog2fh\Clase 17\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.exe
+D:\clasesprog2fh\Clase 17\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmLlamada\obj\Debug\frmLlamada.pdb

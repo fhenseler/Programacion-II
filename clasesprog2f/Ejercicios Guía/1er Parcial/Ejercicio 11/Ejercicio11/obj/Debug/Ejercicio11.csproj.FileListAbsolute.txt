@@ -1,0 +1,6 @@
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.pdb

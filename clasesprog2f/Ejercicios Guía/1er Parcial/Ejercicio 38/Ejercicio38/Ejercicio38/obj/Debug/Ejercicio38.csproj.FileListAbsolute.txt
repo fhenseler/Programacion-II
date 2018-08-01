@@ -1,0 +1,6 @@
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 38\Ejercicio38\Ejercicio38\bin\Debug\Ejercicio38.exe.config
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 38\Ejercicio38\Ejercicio38\bin\Debug\Ejercicio38.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 38\Ejercicio38\Ejercicio38\bin\Debug\Ejercicio38.pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 38\Ejercicio38\Ejercicio38\obj\Debug\Ejercicio38.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 38\Ejercicio38\Ejercicio38\obj\Debug\Ejercicio38.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 38\Ejercicio38\Ejercicio38\obj\Debug\Ejercicio38.pdb

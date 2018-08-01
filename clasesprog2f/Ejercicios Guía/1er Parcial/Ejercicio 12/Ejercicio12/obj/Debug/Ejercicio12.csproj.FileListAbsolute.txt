@@ -1,0 +1,5 @@
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb

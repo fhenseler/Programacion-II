@@ -1,0 +1,9 @@
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\VisualStudio\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\clasesprog2fh\clase08\Ejercicio 31\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\clasesprog2fh\clase08\Ejercicio 31\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\clasesprog2fh\clase08\Ejercicio 31\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

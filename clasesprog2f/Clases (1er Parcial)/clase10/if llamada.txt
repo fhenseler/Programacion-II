@@ -1,0 +1,4 @@
+if (llamada is local)
+{
+   (local) llamada;
+}

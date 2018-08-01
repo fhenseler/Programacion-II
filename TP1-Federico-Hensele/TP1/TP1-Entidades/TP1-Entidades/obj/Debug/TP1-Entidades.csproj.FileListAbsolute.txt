@@ -1,0 +1,21 @@
+D:\Escritorio\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\bin\Debug\TP1-Entidades.exe.config
+D:\Escritorio\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\obj\Debug\TP1-Entidades.csprojResolveAssemblyReference.cache
+D:\Escritorio\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\bin\Debug\TP1-Entidades.exe
+D:\Escritorio\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\bin\Debug\TP1-Entidades.pdb
+D:\Escritorio\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\obj\Debug\TP1-Entidades.exe
+D:\Escritorio\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\obj\Debug\TP1-Entidades.pdb
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\bin\Debug\TP1-Entidades.exe.config
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\obj\Debug\TP1-Entidades.exe
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\obj\Debug\TP1-Entidades.pdb
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\bin\Debug\TP1-Entidades.exe
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\bin\Debug\TP1-Entidades.pdb
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\obj\Debug\TP1-Entidades.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\bin\Debug\TP1-Entidades.exe.config
+D:\clasesprog2fh\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\obj\Debug\TP1-Entidades.exe
+D:\clasesprog2fh\TP1 Federico Henseler\TP1-Entidades\TP1-Entidades\obj\Debug\TP1-Entidades.pdb
+D:\Escritorio\TP1-Federico-Henseler\TP1-Entidades\TP1-Entidades\obj\Debug\TP1-Entidades.csprojResolveAssemblyReference.cache
+D:\Escritorio\TP1-Federico-Henseler\TP1-Entidades\TP1-Entidades\obj\Debug\TP1-Entidades.exe
+D:\Escritorio\TP1-Federico-Henseler\TP1-Entidades\TP1-Entidades\obj\Debug\TP1-Entidades.pdb
+D:\Escritorio\TP1-Federico-Henseler\TP1-Entidades\TP1-Entidades\bin\Debug\TP1-Entidades.exe.config
+D:\Escritorio\TP1-Federico-Henseler\TP1-Entidades\TP1-Entidades\bin\Debug\TP1-Entidades.exe
+D:\Escritorio\TP1-Federico-Henseler\TP1-Entidades\TP1-Entidades\bin\Debug\TP1-Entidades.pdb

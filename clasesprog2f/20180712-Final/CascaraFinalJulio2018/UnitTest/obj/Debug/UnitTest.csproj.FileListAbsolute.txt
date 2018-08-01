@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\UnitTest\bin\Debug\UnitTest.dll
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\UnitTest\bin\Debug\UnitTest.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\UnitTest\bin\Debug\Entidades.dll
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\UnitTest\bin\Debug\Excepciones.dll
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\UnitTest\bin\Debug\Entidades.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\UnitTest\bin\Debug\Excepciones.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\UnitTest\obj\Debug\UnitTest.dll
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\UnitTest\obj\Debug\UnitTest.pdb

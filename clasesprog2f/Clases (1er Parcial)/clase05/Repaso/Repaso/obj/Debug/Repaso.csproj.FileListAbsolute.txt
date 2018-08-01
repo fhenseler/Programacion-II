@@ -1,0 +1,4 @@
+D:\Escritorio\clasesprog2fh\clase05\Repaso\Repaso\bin\Debug\Repaso.exe.config
+D:\clasesprog2fh\clase05\Repaso\Repaso\bin\Debug\Repaso.exe.config
+D:\Escritorio\clasesprog2fh\clase05\Repaso\Repaso\obj\Debug\Repaso.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Clases (1er Parcial)\clase05\Repaso\Repaso\bin\Debug\Repaso.exe.config

@@ -1,0 +1,13 @@
+Para este formulario desarrollar una aplicación capaz de, dado un cierto texto, mostrarle al usuario:
+
+Cantidad de palabras (muestra en lblCantPalabras).
+Cantidad de palabras finalizadas con subcadena “la” (letra A seguida por un espacio) (muestra en lblCantAEspacio).
+Las primeras 20 palabras (muestra en txtResultado)
+Las primeras 100 letras (muestra en txtResultado)
+Programar un método llamado buscarPalabraFinalizadaEn(string, short) que reciba como parámetros con que cadena finalizan las palabras a encontrar y cuántas de ellas se desea obtener; siendo capaz de:
+Encontrar las primeras 3 palabras finalizadas con “a ” (letra A seguida por un espacio) (muestra en txtResultado).
+Encontrar las primeras 3 palabras finalizadas con “o ” (letra O seguida por un espacio) (muestra en txtResultado).
+
+
+El listbox de abajo tiene un metodo ADD, dependiendo a que le hacen click agrega las palabras.
+listbox.x.add

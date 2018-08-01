@@ -1,0 +1,5 @@
+D:\clasesprog2fh\Clase 24\Ejercicio67\Ejercicio67\bin\Debug\Ejercicio67.dll
+D:\clasesprog2fh\Clase 24\Ejercicio67\Ejercicio67\bin\Debug\Ejercicio67.pdb
+D:\clasesprog2fh\Clase 24\Ejercicio67\Ejercicio67\obj\Debug\Ejercicio67.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\Clase 24\Ejercicio67\Ejercicio67\obj\Debug\Ejercicio67.dll
+D:\clasesprog2fh\Clase 24\Ejercicio67\Ejercicio67\obj\Debug\Ejercicio67.pdb

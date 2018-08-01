@@ -1,0 +1,37 @@
+1) B
+
+2) B, E, F
+
+3) B
+
+4) E
+
+5) A
+
+6) A
+
+7) A) XML - Binario 
+   B) [Serializable] 
+   C) La serialización XML sólo serializa los atributos públicos
+      y los valores de propiedad de un objeto en una secuencia XML.
+   D) Puede serializar atributos públicos y privados.
+
+8) D
+
+9) G
+
+10) F
+
+11) E
+
+12) // Inicializo t, pasándole el método "ProbarThreads" como parámetro
+    // Inicio el thread "t"
+    // Freno el thread "t" por 2 segundos
+    // False
+    // Verificar que el thread esté corriendo
+
+13) 
+
+Línea 4 - string MiMetodo(int dato);
+Línea 6 - class MiClase : MiOtraClase, IAlgo
+Línea 8 - string MiMetodo(int dato);

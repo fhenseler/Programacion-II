@@ -1,0 +1,6 @@
+D:\clasesprog2fh\Clase 17\Ejercicio 47\Ejercicio 47\Ejercicio 47\bin\Debug\Ejercicio 47.exe.config
+D:\clasesprog2fh\Clase 17\Ejercicio 47\Ejercicio 47\Ejercicio 47\obj\Debug\Ejercicio 47.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\Clase 17\Ejercicio 47\Ejercicio 47\Ejercicio 47\bin\Debug\Ejercicio 47.exe
+D:\clasesprog2fh\Clase 17\Ejercicio 47\Ejercicio 47\Ejercicio 47\bin\Debug\Ejercicio 47.pdb
+D:\clasesprog2fh\Clase 17\Ejercicio 47\Ejercicio 47\Ejercicio 47\obj\Debug\Ejercicio 47.exe
+D:\clasesprog2fh\Clase 17\Ejercicio 47\Ejercicio 47\Ejercicio 47\obj\Debug\Ejercicio 47.pdb

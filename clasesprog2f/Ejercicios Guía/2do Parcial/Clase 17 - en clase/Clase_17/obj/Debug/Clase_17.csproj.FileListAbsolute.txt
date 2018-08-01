@@ -1,0 +1,17 @@
+D:\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\bin\Debug\Clase_17.exe.config
+D:\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\obj\Debug\Clase_17.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\bin\Debug\Clase_17.exe
+D:\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\bin\Debug\Clase_17.pdb
+D:\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\bin\Debug\Clase_17_Library.dll
+D:\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\bin\Debug\Clase_17_Library.pdb
+D:\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\obj\Debug\Clase_17.exe
+D:\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\obj\Debug\Clase_17.pdb
+D:\Escritorio\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\bin\Debug\Clase_17.exe.config
+D:\Escritorio\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\bin\Debug\Clase_17.exe
+D:\Escritorio\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\bin\Debug\Clase_17.pdb
+D:\Escritorio\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\bin\Debug\Clase_17_Library.dll
+D:\Escritorio\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\bin\Debug\Clase_17_Library.pdb
+D:\Escritorio\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\obj\Debug\Clase_17.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\obj\Debug\Clase_17.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\obj\Debug\Clase_17.exe
+D:\Escritorio\clasesprog2fh\Clase 18\Clase 17 - en clase\Clase_17\obj\Debug\Clase_17.pdb

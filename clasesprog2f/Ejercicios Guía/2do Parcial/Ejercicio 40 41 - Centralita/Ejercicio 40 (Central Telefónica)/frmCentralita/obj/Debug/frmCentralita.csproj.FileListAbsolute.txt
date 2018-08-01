@@ -1,0 +1,19 @@
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\bin\Debug\frmCentralita.exe.config
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.csprojResolveAssemblyReference.cache
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.frmCentralita.resources
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.Properties.Resources.resources
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.csproj.GenerateResource.Cache
+D:\Clase 15\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\bin\Debug\frmCentralita.exe.config
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\bin\Debug\frmCentralita.exe.config
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.frmCentralita.resources
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.Properties.Resources.resources
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.csproj.GenerateResource.Cache
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\bin\Debug\frmCentralita.exe
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\bin\Debug\frmCentralita.pdb
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\bin\Debug\Ejercicio 37 (Central Telefónica).exe
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\bin\Debug\frmLlamada.exe
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\bin\Debug\Ejercicio 37 (Central Telefónica).pdb
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\bin\Debug\frmLlamada.pdb
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.exe
+D:\clasesprog2fh\Clase 16\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.pdb

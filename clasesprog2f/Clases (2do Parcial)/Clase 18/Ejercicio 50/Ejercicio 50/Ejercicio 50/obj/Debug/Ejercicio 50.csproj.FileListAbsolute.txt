@@ -1,0 +1,4 @@
+D:\clasesprog2fh\Clase 18\Ejercicio 50\Ejercicio 50\Ejercicio 50\bin\Debug\Ejercicio 50.dll
+D:\clasesprog2fh\Clase 18\Ejercicio 50\Ejercicio 50\Ejercicio 50\bin\Debug\Ejercicio 50.pdb
+D:\clasesprog2fh\Clase 18\Ejercicio 50\Ejercicio 50\Ejercicio 50\obj\Debug\Ejercicio 50.dll
+D:\clasesprog2fh\Clase 18\Ejercicio 50\Ejercicio 50\Ejercicio 50\obj\Debug\Ejercicio 50.pdb

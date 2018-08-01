@@ -1,0 +1,86 @@
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\bin\Debug\VistaForm.exe.config
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\bin\Debug\VistaForm.exe
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\bin\Debug\VistaForm.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\bin\Debug\Entidades.dll
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\bin\Debug\Entidades.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\obj\Debug\VistaForm.exe
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\obj\Debug\VistaForm.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\bin\Debug\Excepciones.dll
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\bin\Debug\Excepciones.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\FinalJulio2018\VistaForm\obj\Debug\VistaForm.FormPedido.resources
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\bin\Debug\Excepciones.dll
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\bin\Debug\Excepciones.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.FormPedido.resources
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\alumno\Desktop\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\alumno\Desktop\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\alumno\Desktop\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\alumno\Desktop\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.FormPedido.resources
+C:\Users\alumno\Desktop\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\alumno\Desktop\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.FormPedido.resources
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Excepciones.dll
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Excepciones.pdb
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.exe.config
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.exe
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Entidades.dll
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Excepciones.dll
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Entidades.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Excepciones.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.FormPedido.resources
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.exe
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.exe.config
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.exe
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.exe
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\bin\Debug\Entidades.dll
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\bin\Debug\Excepciones.dll
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\bin\Debug\Entidades.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\bin\Debug\Excepciones.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.FormPedido.resources
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.exe.config
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.exe
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.pdb
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.exe
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\VistaForm.pdb
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Entidades.dll
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Excepciones.dll
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Entidades.pdb
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\bin\Debug\Excepciones.pdb
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.FormPedido.resources
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache

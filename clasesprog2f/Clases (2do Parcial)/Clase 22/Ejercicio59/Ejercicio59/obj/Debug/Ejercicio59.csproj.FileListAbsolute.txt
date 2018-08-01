@@ -1,0 +1,9 @@
+D:\clasesprog2fh\Clase 22\Ejercicio59\Ejercicio59\bin\Debug\Ejercicio59.exe.config
+D:\clasesprog2fh\Clase 22\Ejercicio59\Ejercicio59\bin\Debug\Ejercicio59.exe
+D:\clasesprog2fh\Clase 22\Ejercicio59\Ejercicio59\bin\Debug\Ejercicio59.pdb
+D:\clasesprog2fh\Clase 22\Ejercicio59\Ejercicio59\obj\Debug\Ejercicio59.Form1.resources
+D:\clasesprog2fh\Clase 22\Ejercicio59\Ejercicio59\obj\Debug\Ejercicio59.Properties.Resources.resources
+D:\clasesprog2fh\Clase 22\Ejercicio59\Ejercicio59\obj\Debug\Ejercicio59.csproj.GenerateResource.Cache
+D:\clasesprog2fh\Clase 22\Ejercicio59\Ejercicio59\obj\Debug\Ejercicio59.exe
+D:\clasesprog2fh\Clase 22\Ejercicio59\Ejercicio59\obj\Debug\Ejercicio59.pdb
+D:\clasesprog2fh\Clase 22\Ejercicio59\Ejercicio59\obj\Debug\Ejercicio59.csprojResolveAssemblyReference.cache

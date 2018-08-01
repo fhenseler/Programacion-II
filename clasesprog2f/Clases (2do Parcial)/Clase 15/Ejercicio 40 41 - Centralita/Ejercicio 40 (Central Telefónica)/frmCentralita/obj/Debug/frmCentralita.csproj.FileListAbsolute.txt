@@ -1,0 +1,6 @@
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\bin\Debug\frmCentralita.exe.config
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.csprojResolveAssemblyReference.cache
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.frmCentralita.resources
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.Properties.Resources.resources
+D:\Clase 13\Ejercicio 40 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\obj\Debug\frmCentralita.csproj.GenerateResource.Cache
+D:\Clase 15\Ejercicio 40 41 - Centralita\Ejercicio 40 (Central Telefónica)\frmCentralita\bin\Debug\frmCentralita.exe.config

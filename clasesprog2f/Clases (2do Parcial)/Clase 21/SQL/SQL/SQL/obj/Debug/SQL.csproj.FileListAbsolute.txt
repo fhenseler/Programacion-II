@@ -1,0 +1,9 @@
+D:\clasesprog2fh\Clase 21\SQL\SQL\SQL\bin\Debug\SQL.exe.config
+D:\clasesprog2fh\Clase 21\SQL\SQL\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\Clase 21\SQL\SQL\SQL\obj\Debug\SQL.Form1.resources
+D:\clasesprog2fh\Clase 21\SQL\SQL\SQL\obj\Debug\SQL.Properties.Resources.resources
+D:\clasesprog2fh\Clase 21\SQL\SQL\SQL\obj\Debug\SQL.csproj.GenerateResource.Cache
+D:\clasesprog2fh\Clase 21\SQL\SQL\SQL\bin\Debug\SQL.exe
+D:\clasesprog2fh\Clase 21\SQL\SQL\SQL\bin\Debug\SQL.pdb
+D:\clasesprog2fh\Clase 21\SQL\SQL\SQL\obj\Debug\SQL.exe
+D:\clasesprog2fh\Clase 21\SQL\SQL\SQL\obj\Debug\SQL.pdb

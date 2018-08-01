@@ -1,0 +1,13 @@
+D:\VisualStudio\Ejercicio27\Ejercicio27\bin\Debug\Ejercicio27.exe.config
+D:\VisualStudio\Ejercicio27\Ejercicio27\bin\Debug\Ejercicio27.exe
+D:\VisualStudio\Ejercicio27\Ejercicio27\bin\Debug\Ejercicio27.pdb
+D:\VisualStudio\Ejercicio27\Ejercicio27\obj\Debug\Ejercicio27.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ejercicio27\Ejercicio27\obj\Debug\Ejercicio27.exe
+D:\VisualStudio\Ejercicio27\Ejercicio27\obj\Debug\Ejercicio27.pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 27\Ejercicio27\bin\Debug\Ejercicio27.exe.config
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 27\Ejercicio27\bin\Debug\Ejercicio27.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 27\Ejercicio27\bin\Debug\Ejercicio27.pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 27\Ejercicio27\obj\Debug\Ejercicio27.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 27\Ejercicio27\obj\Debug\Ejercicio27.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 27\Ejercicio27\obj\Debug\Ejercicio27.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 27\Ejercicio27\obj\Debug\Ejercicio27.pdb

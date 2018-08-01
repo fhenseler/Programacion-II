@@ -1,0 +1,16 @@
+WINDOWS FORMS
+
+Form1.cs -> Form1.Designer.cs -> Toolbox -> Button
+
+En Design -> F4 sobre el botón -> Toda la info abajo a la derecha (Propiedades y Eventos -rayito-)
+
+MessageBox.Show - MessageBoxButtons
+
+FUNCIONALIDAD DE LOS CONTROLES (TEXTBOX, LABEL, CHECKBOX, LISTBOX, COMBOBOX, RADIOBUTTON, ETC)
+
+
+
+STRINGS
+
+String.Compare(..) MÉTODO ESTÁTICO (no requiere inicialización)
+variableTipoString.CompareTo(..) MÉTODO DE CLASE (requiere tener un objeto instanciado)

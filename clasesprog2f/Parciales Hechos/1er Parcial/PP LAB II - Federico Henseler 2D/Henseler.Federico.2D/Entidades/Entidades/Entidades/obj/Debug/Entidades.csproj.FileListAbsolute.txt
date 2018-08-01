@@ -1,0 +1,21 @@
+D:\PARCIAL FH\www\Entidades\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\PARCIAL FH\www\Entidades\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\PARCIAL FH\www\Entidades\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\PARCIAL FH\www\Entidades\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\PARCIAL FH\www\Entidades\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\Entidades\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\Entidades\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\Entidades\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\Entidades\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\Entidades\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\Entidades\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\Entidades\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\Entidades\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\Entidades\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\Entidades\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\Entidades\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\Entidades\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\Entidades\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\Entidades\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\Entidades\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\Entidades\Entidades\Entidades\obj\Debug\Entidades.pdb

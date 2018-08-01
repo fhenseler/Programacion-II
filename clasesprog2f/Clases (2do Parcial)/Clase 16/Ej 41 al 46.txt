@@ -1,0 +1,1 @@
+Ej 42 - 1 método estático, 2 constructores de instancia

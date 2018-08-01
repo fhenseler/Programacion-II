@@ -1,0 +1,7 @@
+C:\Users\alumno\Downloads\Ej_40\TestCentralita\bin\Debug\TestCentralita.dll
+C:\Users\alumno\Downloads\Ej_40\TestCentralita\bin\Debug\TestCentralita.pdb
+C:\Users\alumno\Downloads\Ej_40\TestCentralita\bin\Debug\Ej_37.exe
+C:\Users\alumno\Downloads\Ej_40\TestCentralita\bin\Debug\Ej_37.pdb
+C:\Users\alumno\Downloads\Ej_40\TestCentralita\obj\Debug\TestCentralita.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Ej_40\TestCentralita\obj\Debug\TestCentralita.dll
+C:\Users\alumno\Downloads\Ej_40\TestCentralita\obj\Debug\TestCentralita.pdb

@@ -1,0 +1,9 @@
+D:\Escritorio\clasesprog2fh\clase05\Repaso CLASE\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+D:\Escritorio\clasesprog2fh\clase05\Repaso CLASE\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Escritorio\clasesprog2fh\clase05\Repaso CLASE\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\Escritorio\clasesprog2fh\clase05\Repaso CLASE\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\Escritorio\clasesprog2fh\clase05\Repaso CLASE\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\Escritorio\clasesprog2fh\clase05\Repaso CLASE\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\clase05\Repaso CLASE\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+D:\clasesprog2fh\clase05\Repaso CLASE\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\clasesprog2fh\clase05\Repaso CLASE\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

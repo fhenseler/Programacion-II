@@ -1,0 +1,30 @@
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\VC\VistaConsola2\bin\Debug\VistaConsola2.exe.config
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\VC\VistaConsola2\bin\Debug\VistaConsola2.exe
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\VC\VistaConsola2\bin\Debug\VistaConsola2.pdb
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\VC\VistaConsola2\bin\Debug\Entidades.dll
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\VC\VistaConsola2\bin\Debug\Entidades.pdb
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\VC\VistaConsola2\obj\Debug\VistaConsola2.exe
+D:\PP LAB II - Federico Henseler 2D\[HENSELER].[FEDERICO]\VC\VistaConsola2\obj\Debug\VistaConsola2.pdb
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\VistaConsola2.exe.config
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\obj\Debug\VistaConsola2.exe
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\obj\Debug\VistaConsola2.pdb
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\VistaConsola2.exe
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\VistaConsola2.pdb
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\Entidades.dll
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\Entidades.pdb
+D:\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\VistaConsola2.exe.config
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\VistaConsola2.exe
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\VistaConsola2.pdb
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\Entidades.dll
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\Entidades.pdb
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\obj\Debug\VistaConsola2.exe
+D:\Escritorio\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\obj\Debug\VistaConsola2.pdb
+D:\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\VistaConsola2.exe.config
+D:\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\obj\Debug\VistaConsola2.exe
+D:\clasesprog2fh\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\obj\Debug\VistaConsola2.pdb
+D:\Escritorio\clasesprog2fh\Parciales Hechos\1er Parcial\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\bin\Debug\VistaConsola2.exe.config
+D:\Escritorio\clasesprog2fh\Parciales Hechos\1er Parcial\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\obj\Debug\VistaConsola2.exe
+D:\Escritorio\clasesprog2fh\Parciales Hechos\1er Parcial\PP LAB II - Federico Henseler 2D\Henseler.Federico.2D\VistaConsola\VistaConsola\obj\Debug\VistaConsola2.pdb

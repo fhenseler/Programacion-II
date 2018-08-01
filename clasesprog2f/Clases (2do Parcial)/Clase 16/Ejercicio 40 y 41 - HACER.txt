@@ -1,0 +1,38 @@
+Hacer en FORMS - frmCentralita (instancia centralita): Lista llamadas + textbox razonsocial + label ganancia +
+combobox tipollamada + calcularGanancia + agregar + listbox.
+El objeto centralita se inicializa en el constructor del formulario
+
+frmLlamada: tipo + duracion + origen + destino (textbox + label)
+
+
+btnAgregar_Click(object...)
+{
+	frmLlamada llamada = new frmLlamada;
+
+	if(llamada.showDialog() == DialogResult e*)
+	{
+		centralita + llamada.miLlamada;
+	}
+	
+}
+
+- EL NEW SE HACE FUERA DEL AGREGAR
+
+frmLlamada -> BOTON ACEPTAR
+
+public Llamada.millamada; PROPIEDAD: Se declara en el formulario, fuera de todo método y  se carga cuando apreto "ACEPTAR"
+btnAceptar_Click(object...)
+{
+	if(cmbTipo.SelectedItem == "Local")
+	{
+		this.miLlamada = new Local(int duracion, string destino...);
+	}
+	else
+	{
+		this.miLlamada = new Provincial(...);
+		this.DialogResult == DialogResult. ;
+		this.close();
+	}
+}
+
+listBox.DataSource = this.centralita.Llamada;

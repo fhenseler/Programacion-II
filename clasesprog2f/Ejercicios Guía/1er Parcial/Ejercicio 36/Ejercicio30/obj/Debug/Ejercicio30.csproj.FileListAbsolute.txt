@@ -1,0 +1,18 @@
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 30\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe.config
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 30\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 30\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 30\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 30\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 30\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.pdb
+D:\clasesprog2fh\Ejercicios Guía\Ejercicio 36\Ejercicio30\bin\Debug\Ejercicio30.exe.config
+D:\clasesprog2fh\Ejercicios Guía\Ejercicio 36\Ejercicio30\obj\Debug\Ejercicio30.exe
+D:\clasesprog2fh\Ejercicios Guía\Ejercicio 36\Ejercicio30\obj\Debug\Ejercicio30.pdb
+D:\clasesprog2fh\Ejercicios Guía\Ejercicio 36\Ejercicio30\bin\Debug\Ejercicio30.exe
+D:\clasesprog2fh\Ejercicios Guía\Ejercicio 36\Ejercicio30\bin\Debug\Ejercicio30.pdb
+D:\clasesprog2fh\Ejercicios Guía\Ejercicio 36\Ejercicio30\obj\Debug\Ejercicio30.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\1er Parcial\Ejercicio 36\Ejercicio30\bin\Debug\Ejercicio30.exe.config
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\1er Parcial\Ejercicio 36\Ejercicio30\obj\Debug\Ejercicio30.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\1er Parcial\Ejercicio 36\Ejercicio30\obj\Debug\Ejercicio30.pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\1er Parcial\Ejercicio 36\Ejercicio30\bin\Debug\Ejercicio30.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\1er Parcial\Ejercicio 36\Ejercicio30\bin\Debug\Ejercicio30.pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\1er Parcial\Ejercicio 36\Ejercicio30\obj\Debug\Ejercicio30.csprojResolveAssemblyReference.cache

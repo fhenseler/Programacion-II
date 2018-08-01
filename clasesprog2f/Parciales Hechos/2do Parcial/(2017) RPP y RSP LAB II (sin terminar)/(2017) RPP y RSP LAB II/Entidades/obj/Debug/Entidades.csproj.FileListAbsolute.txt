@@ -1,0 +1,6 @@
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\Entidades\obj\Debug\Entidades.pdb

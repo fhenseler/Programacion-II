@@ -1,0 +1,16 @@
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.pdb
+D:\Escritorio\clasesprog2fh\Clase 16\TestFallas\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Escritorio\clasesprog2fh\Clase 16\TestFallas\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Escritorio\clasesprog2fh\Clase 16\TestFallas\TestUnitario\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Escritorio\clasesprog2fh\Clase 16\TestFallas\TestUnitario\bin\Debug\Test.dll
+D:\Escritorio\clasesprog2fh\Clase 16\TestFallas\TestUnitario\bin\Debug\Test.pdb
+D:\Escritorio\clasesprog2fh\Clase 16\TestFallas\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Clase 16\TestFallas\TestUnitario\obj\Debug\TestUnitario.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\Clase 16\TestFallas\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Escritorio\clasesprog2fh\Clase 16\TestFallas\TestUnitario\obj\Debug\TestUnitario.pdb

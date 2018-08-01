@@ -1,0 +1,322 @@
+¿Cómo lanzo una excepción propia?
+
+class Program
+{
+    static void Main()
+    {
+        try
+        {
+            throw new TestException();
+        }
+        catch (TestException ex)
+        {
+            Console.WriteLine(ex);
+        }
+    }
+}
+
+
+¿Cómo capturo una excepción?
+
+public class ProcessFile
+{
+    public static void Main()
+    {
+        try
+        {
+            StreamReader sr = File.OpenText("data.txt");
+            Console.WriteLine("The first line of this file is {0}", sr.ReadLine());
+	    sr.Close();
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("An error occurred: '{0}'", e);
+        }
+    }
+}
+
+
+¿Qué función cumple el finally?
+
+La cláusula finally de C# contiene un conjunto de instrucciones que es necesario
+ejecutar sea cual sea el flujo de control. 
+
+Las instrucciones del bloque finally se ejecutarán aunque el control 
+abandone un bucle try como resultado de la ejecución normal 
+porque el flujo de control llega al final del bloque try. 
+
+Del mismo modo, también se ejecutarán las instrucciones del bloque finally 
+si el control abandona un bucle try como resultado de una instrucción throw 
+o una instrucción de salto como break o continue. 
+El bloque finally es útil en dos casos: para evitar la repetición de instrucciones
+y para liberar recursos tras el lanzamiento de una excepción. 
+
+
+¿Puedo tener varios catch? ¿Por qué?
+
+Un bloque de código en una instancia try puede contener muchas instrucciones,
+cada una de las cuales puede producir una o más clases diferentes de excepción.
+ 
+Al haber muchas clases de excepciones distintas, es posible que haya muchos 
+bloques catch y que cada uno de ellos capture un tipo específico de excepción.
+ 
+La captura de una excepción se basa únicamente en su tipo. 
+
+El runtime captura automáticamente objetos excepción de un tipo concreto en 
+un bloque catch para ese tipo. 
+
+
+¿Qué etiqueta marca una clase de test?
+
+[TestClass]
+[TestMethod] 
+
+
+¿Cómo corro un test unitario?
+
+To build and run the test
+
+1- On the Build menu, choose Build Solution.
+
+If there are no errors, the UnitTestExplorer window appears with
+Debit_WithValidAmount_UpdatesBalance listed in the Not Run Tests group.
+If Test Explorer does not appear after a successful build, choose Test
+on the menu, then choose Windows, and then choose Test Explorer.
+
+2- Choose Run All to run the test. As the test is running the status bar
+at the top of the window is animated. At the end of the test run, the bar
+turns green if all the test methods pass, or red if any of the tests fail.
+
+3- In this case, the test does fail. The test method is moved to the 
+Failed Tests. group.Select the method in Test Explorer to view the 
+details at the bottom of the window.
+
+
+¿Para qué sirven los test unitarios?
+
+Escribir casos de prueba para cada función no trivial o método en el módulo, 
+de forma que cada caso sea independiente del resto.
+
+ 
+¿Cuántos tipos de testing hay?
+
+Unitarios y Funcionales
+
+
+¿Qué es una interface?
+
+Definición formal:
+Es un contrato que establece una clase en el cual esta clase
+asegura que implementará un conjunto de métodos.
+(Clase abstracta sin atributos)
+
+
+¿Una Interface puede tener propiedades? ¿Y atributos?
+
+C# no permite especificar atributos en las interfaces.
+
+Se pueden especificar propiedades (sin implementación).
+
+
+¿Cómo implemento una interface?
+
+Para que una clase implemente una interface se emplea el operador dos puntos (:)
+
+Para implementar una interface a una clase derivada, primero hay que
+indicar la clase base, luego la interface separadas por una coma (,).
+
+Para sobrescribir los miembros de las interfaces NO se emplea
+la palabra override, ya que no fueron declaradas como virtual o abstract en la interface.
+
+
+Si mi interface tiene la siguiente firma Interface Iarchivos<T>, 
+cuando la implemento, ¿Que se le pasa a T?
+
+El nombre de la clase que la implementa
+
+
+¿Cuándo se reemplaza el T por una clase o tipo y para qué sirve?
+
+Cuando implemento la interfaz
+
+
+¿Qué restricciones puede tener?
+
+where T : <interface name>
+
+
+¿Qué librería necesito para utilizar archivos?
+
+System.IO
+
+
+¿Cómo agrego datos a un archivo de texto?
+
+StreamWriter (string path, bool append)
+Inicializa una nueva instancia de la clase StreamWriter, en un path específico.
+Si el archivo existe, se sobrescribirá, sino se creará.
+
+Si append es true, se agregarán datos al archivo existente.
+Caso contrario, se sobrescribirá el archivo.
+
+
+¿Qué es la serializacion?
+
+Es el proceso de convertir un objeto en memoria en una secuencia lineal de bytes.
+
+¿Para qué sirve?
+Para pasarlo a otro proceso.
+Para pasarlo a otra máquina.
+Para grabarlo en disco.
+Para grabarlo en una base de datos.
+
+
+¿Qué diferencia hay entre la serializacion binaria y xml?
+
+XML
+La serialización XML sólo serializa los atributos públicos y los 
+valores de propiedad de un objeto en una secuencia XML.
+La serialización XML no convierte los métodos, indexadores, atributos
+privados ni propiedades de sólo lectura (salvo colecciones de sólo lectura).
+
+La clase central de la serialización XML es XmlSerializer y sus métodos 
+más importantes son Serialize y Deserialize.  
+
+BINARIA
+Serializa y Deserializa objetos en formato binario.
+Se encuentra en el espacio de nombres System.Runtime.Serialization.Formatters.Binary
+Puede serializar atributos públicos y privados.
+Una clase debe tener un constructor por defecto para que BinaryFormatter pueda serializarla.
+
+Los métodos más importantes de la clase BinaryFormatter son:
+Serialize
+Deserialize
+
+
+¿Con que método serializo en XML?
+
+XmlSerializer (System.Type type)
+Inicializa una nueva instancia de la clase XmlSerializer 
+la cual puede serializar objetos del tipo especificado en el parámetro type.
+
+Serialize (System.IO.Stream stream, Object o)
+Serializa el objeto especificado y escribe en un documento Xml usando el Stream especificado.
+
+Deserialize (System.IO.Stream stream)
+Deserializa el documento Xml contenido por el Stream especificado.
+
+
+¿Cómo deserealizo un archivo binario?
+
+BinaryFormatter()
+Inicializa una nueva instancia de la clase BinaryFormatter.
+
+Serialize(System.IO.FileStream seralizationStream, Object graph)
+Serializa el objeto especificado y escribe en un archivo binario usando 
+el serializationStream especificado.
+
+Deserialize(System.IO.FileStream serializationStream)
+Deserializa el archivo binario contenido por el serializationStream especificado.
+
+
+¿Cómo verifico que exista un archivo?
+
+File.Exists(path)
+
+
+¿Qué excepción tengo cuando no encuentra el path solicitado?
+
+FileNotFoundException()
+
+
+¿Qué es una tupla?
+
+The nearest equivalent in SQL is a "row". SQL rows differ from relational tuples
+in a few fundamental ways, for example: SQL rows are always ordered lists
+of values rather than unordered sets; SQL rows permit values that are
+un-named or have duplicate names.
+
+
+¿Con que elemento me conecto a una base de datos?
+
+La cadena de conexión (Connection String) es donde se especificarán los datos 
+de una conexión a una fuente de datos.
+
+Para SQL Server, a fin de ejemplo, utilizaremos cadenas similares a esta:
+String connectionStr = “Data Source=[Instancia Del Servidor];Initial 
+Catalog=[Nombre de la Base de Datos];Integrated Security=True”;
+
+
+¿Qué elemento ejecuta una consulta?
+¿Cómo inserto un dato en una tabla?
+¿Cómo hago una consulta a una tabla provincia?
+¿Cómo borro una localidad?
+
+String consulta;
+consulta = “UPDATE Personas SET nombre = ‘Fer' WHERE id = 1”;
+//consulta = “INSERT INTO Personas (nombre) VALUES(‘Pedro’)”;
+//consulta = “DELETE FROM Personas WHERE id = 1”;
+
+comando.CommandText = consulta;
+conexion.Open();
+comando.ExecuteNonQuery();
+
+
+¿Con que clase leo en c# una consulta y como la recorro?
+-
+comando.CommandText = 
+	"SELECT nombre FROM Personas";
+conexion.Open();
+
+SqlDataReader oDr = comando.ExecuteReader();
+
+While (oDr.Read())
+{
+	Console.WriteLine(oDr["nombre"].ToString());
+}
+
+
+¿Qué funcionalidad nos brinda un hilo?
+
+Un hilo es simplemente una tarea que puede ser ejecutada al mismo tiempo que otra tarea.
+
+Threading enables your C# program to perform concurrent processing 
+so that you can do more than one operation at a time. 
+
+
+¿Cómo lo lanzo?
+¿Cómo lo freno?
+¿Cómo lo bajo?
+
+// Creo el hilo
+Thread t = new Thread(UnMetodo);
+// Inicio el Hilo
+t.Start();
+//Duermo
+Thread.Sleep(2000);
+//Aborto
+Thread.Abort();
+
+
+¿Qué es un evento?
+
+Un evento es el modo que tiene una clase en particular de proporcionar
+notificaciones a sus clientes cuando ocurre algo en particular dentro del objeto.
+
+
+¿Cuántos manejadores puede haber por evento?
+
+Varios
+
+
+¿Cómo asigno un manejador a un evento?
+
+Emisor.evento_a_controlar += Procedimiento;
+
+
+
+
+
+
+
+

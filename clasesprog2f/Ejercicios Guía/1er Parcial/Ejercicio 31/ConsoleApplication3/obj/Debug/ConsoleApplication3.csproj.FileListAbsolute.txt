@@ -1,0 +1,7 @@
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 31\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 31\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 31\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 31\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 31\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 31\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 31\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

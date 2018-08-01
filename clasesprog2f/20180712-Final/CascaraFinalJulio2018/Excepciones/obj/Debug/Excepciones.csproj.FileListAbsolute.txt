@@ -1,0 +1,21 @@
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\alumno\Desktop\20180712-Final\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\Excepciones\bin\Debug\Excepciones.dll
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\Excepciones\bin\Debug\Excepciones.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.dll
+D:\Escritorio\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\Excepciones\bin\Debug\Excepciones.dll
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\Excepciones\bin\Debug\Excepciones.pdb
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.dll
+D:\Escritorio\clasesprog2fh\20180712-Final [2do Parcial]\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.pdb
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\Excepciones\bin\Debug\Excepciones.dll
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\Excepciones\bin\Debug\Excepciones.pdb
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.dll
+D:\clasesprog2fh\20180712-Final\CascaraFinalJulio2018\Excepciones\obj\Debug\Excepciones.pdb

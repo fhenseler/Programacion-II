@@ -1,0 +1,17 @@
+D:\clasesprog2fh\clase10\Ejercicio37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\bin\Debug\Ejercicio 37 (Central Telefónica).exe.config
+D:\clasesprog2fh\clase10\Ejercicio37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\obj\Debug\Ejercicio 37 (Central Telefónica).csprojResolveAssemblyReference.cache
+D:\clasesprog2fh\clase10\Ejercicio37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\bin\Debug\Ejercicio 37 (Central Telefónica).exe
+D:\clasesprog2fh\clase10\Ejercicio37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\bin\Debug\Ejercicio 37 (Central Telefónica).pdb
+D:\clasesprog2fh\clase10\Ejercicio37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\obj\Debug\Ejercicio 37 (Central Telefónica).exe
+D:\clasesprog2fh\clase10\Ejercicio37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\obj\Debug\Ejercicio 37 (Central Telefónica).pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\bin\Debug\Ejercicio 37 (Central Telefónica).exe.config
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\bin\Debug\Ejercicio 37 (Central Telefónica).exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\bin\Debug\Ejercicio 37 (Central Telefónica).pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\obj\Debug\Ejercicio 37 (Central Telefónica).csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\obj\Debug\Ejercicio 37 (Central Telefónica).csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\obj\Debug\Ejercicio 37 (Central Telefónica).exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 37\Ejercicio 37 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\obj\Debug\Ejercicio 37 (Central Telefónica).pdb
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 40\Ejercicio 40 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\obj\Debug\Ejercicio 37 (Central Telefónica).csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 40\Ejercicio 40 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\obj\Debug\Ejercicio 37 (Central Telefónica).csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 40\Ejercicio 40 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\obj\Debug\Ejercicio 37 (Central Telefónica).exe
+D:\Escritorio\clasesprog2fh\Ejercicios Guía\Ejercicio 40\Ejercicio 40 (Central Telefónica)\Ejercicio 37 (Central Telefónica)\obj\Debug\Ejercicio 37 (Central Telefónica).pdb

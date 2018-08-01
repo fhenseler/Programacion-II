@@ -1,0 +1,28 @@
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\TP1-Entidades.exe
+D:\Escritorio\clasesprog2fh\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\TP1-Entidades.pdb
+D:\Escritorio\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Escritorio\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Escritorio\TP1 Federico Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Escritorio\TP1-Federico-Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Escritorio\TP1-Federico-Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Escritorio\TP1-Federico-Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Escritorio\TP1-Federico-Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Escritorio\TP1-Federico-Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Escritorio\TP1-Federico-Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\TP1-Entidades.exe
+D:\Escritorio\TP1-Federico-Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\TP1-Entidades.pdb
+D:\Escritorio\TP1-Federico-Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+D:\Escritorio\TP1-Federico-Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+D:\Escritorio\TP1-Federico-Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Escritorio\TP1-Federico-Henseler\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+D:\Escritorio\TP1-Federico-Henseler\TP1\TP1-Calculadora\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Escritorio\TP1-Federico-Henseler\TP1\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Escritorio\TP1-Federico-Henseler\TP1\TP1-Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb

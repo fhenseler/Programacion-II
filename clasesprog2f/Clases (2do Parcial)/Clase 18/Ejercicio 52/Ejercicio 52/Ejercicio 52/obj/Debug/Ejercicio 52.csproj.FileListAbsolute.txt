@@ -1,0 +1,6 @@
+D:\clasesprog2fh\Clase 18\Ejercicio 52\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\Clase 18\Ejercicio 52\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\Clase 18\Ejercicio 52\Ejercicio 52\Ejercicio 52\bin\Debug\Ejercicio 52.dll
+D:\Escritorio\clasesprog2fh\Clase 18\Ejercicio 52\Ejercicio 52\Ejercicio 52\bin\Debug\Ejercicio 52.pdb
+D:\Escritorio\clasesprog2fh\Clase 18\Ejercicio 52\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.dll
+D:\Escritorio\clasesprog2fh\Clase 18\Ejercicio 52\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.pdb

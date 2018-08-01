@@ -1,0 +1,7 @@
+D:\Escritorio\Colecciones Ejemplo\ColeccionesEj\ColeccionesEj\obj\Debug\ColeccionesEj.csprojResolveAssemblyReference.cache
+D:\Escritorio\Colecciones Ejemplo\ColeccionesEj\ColeccionesEj\obj\Debug\ColeccionesEj.csproj.CoreCompileInputs.cache
+D:\Escritorio\Colecciones Ejemplo\ColeccionesEj\ColeccionesEj\bin\Debug\ColeccionesEj.exe.config
+D:\Escritorio\Colecciones Ejemplo\ColeccionesEj\ColeccionesEj\bin\Debug\ColeccionesEj.exe
+D:\Escritorio\Colecciones Ejemplo\ColeccionesEj\ColeccionesEj\bin\Debug\ColeccionesEj.pdb
+D:\Escritorio\Colecciones Ejemplo\ColeccionesEj\ColeccionesEj\obj\Debug\ColeccionesEj.exe
+D:\Escritorio\Colecciones Ejemplo\ColeccionesEj\ColeccionesEj\obj\Debug\ColeccionesEj.pdb

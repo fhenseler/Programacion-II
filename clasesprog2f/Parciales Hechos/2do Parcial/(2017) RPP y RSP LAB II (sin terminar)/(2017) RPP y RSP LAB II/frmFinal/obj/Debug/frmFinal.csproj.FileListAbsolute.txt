@@ -1,0 +1,12 @@
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\obj\Debug\frmFinal.csprojResolveAssemblyReference.cache
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\obj\Debug\Entidades.frmFinal.resources
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\obj\Debug\frmFinal.Properties.Resources.resources
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\obj\Debug\frmFinal.csproj.GenerateResource.Cache
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\obj\Debug\frmFinal.csproj.CoreCompileInputs.cache
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\bin\Debug\frmFinal.exe.config
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\bin\Debug\frmFinal.exe
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\bin\Debug\frmFinal.pdb
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\bin\Debug\Entidades.dll
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\bin\Debug\Entidades.pdb
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\obj\Debug\frmFinal.exe
+D:\Escritorio\clasesprog2fh\(2017) RPP y RSP LAB II\(2017) RPP y RSP LAB II\frmFinal\obj\Debug\frmFinal.pdb

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Votacion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NombreLey>TestLey</NombreLey>
+  <ContadorAfirmativo>0</ContadorAfirmativo>
+  <ContadorNegativo>0</ContadorNegativo>
+  <ContadorAbstencion>0</ContadorAbstencion>
+</Votacion>

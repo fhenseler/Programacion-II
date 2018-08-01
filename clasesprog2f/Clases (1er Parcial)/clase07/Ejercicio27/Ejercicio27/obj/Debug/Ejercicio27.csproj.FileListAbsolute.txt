@@ -1,0 +1,6 @@
+D:\VisualStudio\Ejercicio27\Ejercicio27\bin\Debug\Ejercicio27.exe.config
+D:\VisualStudio\Ejercicio27\Ejercicio27\bin\Debug\Ejercicio27.exe
+D:\VisualStudio\Ejercicio27\Ejercicio27\bin\Debug\Ejercicio27.pdb
+D:\VisualStudio\Ejercicio27\Ejercicio27\obj\Debug\Ejercicio27.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ejercicio27\Ejercicio27\obj\Debug\Ejercicio27.exe
+D:\VisualStudio\Ejercicio27\Ejercicio27\obj\Debug\Ejercicio27.pdb

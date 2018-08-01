@@ -1,0 +1,28 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csprojResolveAssemblyReference.cache
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.FrmSenadores.resources
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.Properties.Resources.resources
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.GenerateResource.Cache
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.CoreCompileInputs.cache
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.pdb
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.dll
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Excepciones.dll
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.pdb
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Excepciones.pdb
+D:\clasesprog2fh\PARCIAL\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\clasesprog2fh\PARCIAL\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\clasesprog2fh\PARCIAL\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\Escritorio\clasesprog2fh\Parciales Hechos\2do Parcial\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Escritorio\clasesprog2fh\Parciales Hechos\2do Parcial\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Escritorio\clasesprog2fh\Parciales Hechos\2do Parcial\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\clasesprog2fh\Parciales Hechos\2do Parcial\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\clasesprog2fh\Parciales Hechos\2do Parcial\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\clasesprog2fh\Parciales Hechos\2do Parcial\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb

@@ -1,0 +1,60 @@
+Para mostrar en las clases heredadas (Local, provincial) 
+hay que llamar al Mostrar de la clase base (Llamada) y agregar lo particular
+de Local y Provincial.
+
+
+
+
+Llamada -> Mostrar (virtual)
+
+-> HERENCIAS
+Local -> Mostrar
+Provincial -> Mostrar
+
+Llamada l = new local();
+l.mostrar(); //USA EL MOSTRAR DE LOCAL, NO EL DE LLAMADA -POLIMORFISMO- PORQUE LLAMA AL MÉTODO
+DE LA CLASE MÁS DERIVADA (MÁS "HIJA")
+
+****************************************************************************************************************
+
+DENTRO DE CADA CASE DEL SWITCH
+if(llamadaAux is local)
+..casteo a local
+
+if(llamadaAux is provincial)
+..casteo a provincial
+
+****************************************************************************************************************
+public Local(llamada ll, int costo)
+{
+}
+
+public local(int duracion, string origen, string nroOrigen, string nroDestino)
+	:this(new Llamada(duracion, destino, origen), costo)
+{
+
+}
+
+Un constructor llama al otro, despues un constructor llama a la base.
+
+****************************************************************************************************************
+
+calcularGanancia -> 1 acumulador, 1 for, 1 if, 1 else
+
+****************************************************************************************************************
+CENTRALITA -> MOSTRAR -> FOR -> IF PARA VER SI ES LOCAL O PROVINCIAL
+
+****************************************************************************************************************
+CENTRALITA -> CALCULARGANANCIA
+
+acumulador
+for(o foreach)
+				    (enumerado) PARAMETRO			
+if llamada es del tipo (clase) Y    tipo -> enumLocal
+acumula					  -> enumProvincial
+                 			  -> enumTodas 
+
+else if llamada es del tipo provincial (o todas)	
+acumula		
+
+--NO HACER MUCHOS FOR NI ANIDAR IFs--

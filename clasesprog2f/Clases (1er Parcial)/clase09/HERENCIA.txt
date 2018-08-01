@@ -1,0 +1,6 @@
+Alumno		Profesor	====>     Persona
+Nombre		Nombre			  Nombre		
+Apellido	Apellido		  Apellido
+DNI		DNI			  DNI
+Legajo		materiasDictadas
+esRegular

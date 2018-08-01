@@ -1,0 +1,2 @@
+D:\clasesprog2fh\clase09 - en clase\Ejercicio 34\Ejercicio 34\bin\Debug\Ejercicio 34.exe.config
+D:\clasesprog2fh\clase09 - en clase\Ejercicio 34\Ejercicio 34\obj\Debug\Ejercicio 34.csprojResolveAssemblyReference.cache

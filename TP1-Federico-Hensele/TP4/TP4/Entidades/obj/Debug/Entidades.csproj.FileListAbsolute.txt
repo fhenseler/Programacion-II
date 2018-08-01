@@ -1,0 +1,17 @@
+D:\Escritorio\TP4\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Escritorio\TP4\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Escritorio\TP4\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\TP4\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\TP4\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\TP4\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\TP1-Federico-Henseler\TP4\TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Escritorio\TP1-Federico-Henseler\TP4\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Escritorio\TP1-Federico-Henseler\TP4\TP4\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\TP1-Federico-Henseler\TP4\TP4\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\TP1-Federico-Henseler\TP4\TP4\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\TP1-Federico-Henseler\TP4\TP4\Entidades\bin\Debug\Entidades.pdb
+D:\TP1-Federico-Henseler\TP4\TP4\Entidades\bin\Debug\Entidades.dll
+D:\TP1-Federico-Henseler\TP4\TP4\Entidades\bin\Debug\Entidades.pdb
+D:\TP1-Federico-Henseler\TP4\TP4\Entidades\obj\Debug\Entidades.dll
+D:\TP1-Federico-Henseler\TP4\TP4\Entidades\obj\Debug\Entidades.pdb
+D:\TP1-Federico-Henseler\TP4\TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+ENCAPSULAMIENTO / INDEXADORES / ENUMERADOS
+
+prop/propfull
+
+Enumerados:
+
+public enum diasDeLaSemana
+{
+    Domingo,
+    Lunes,
+    Martes,
+    Miercoles,
+    Jueves
+    Viernes,
+    Sabado
+}
+
+diaDeLaSemana dia = diaDeLaSemana.Lunes;
+
+//Constructor DE CLASE = ESTATICO
+
+el set de numero... va vacio (solo lectura - get)
+
+caja.Atender
