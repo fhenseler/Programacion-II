@@ -5,3 +5,10 @@ D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\
 D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\Excepciones.pdb
 D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.dll
 D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\Excepciones.dll
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\Excepciones.pdb

@@ -51,8 +51,9 @@ namespace Entidades
         /// <returns></returns>
         public override void ProbarAsiento()
         {
+            Random rnd = new Random();
             System.Threading.Thread.Sleep(5000);
-            base.InformarFinDePrueba(true);
+            base.InformarFinDePrueba(rnd.Next(2) == 0);
         }
     }
 }

@@ -16,3 +16,16 @@ D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj
 D:\Escritorio\Programacion-II\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\bin\Debug\20180726 - Final.exe.config
 D:\Escritorio\Programacion-II\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\20180726 - Final.exe
 D:\Escritorio\Programacion-II\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\20180726 - Final.pdb
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\bin\Debug\20180726 - Final.exe.config
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\20180726 - Final.exe
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\20180726 - Final.pdb
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\bin\Debug\20180726 - Final.exe
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\bin\Debug\20180726 - Final.pdb
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\bin\Debug\Entidades.dll
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\bin\Debug\Excepciones.dll
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\bin\Debug\Entidades.pdb
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\bin\Debug\Excepciones.pdb
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\20180726 - Final.csprojResolveAssemblyReference.cache
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\_20180726___Final.FrmPpal.resources
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\_20180726___Final.Properties.Resources.resources
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\20180726 - Final.csproj.GenerateResource.Cache

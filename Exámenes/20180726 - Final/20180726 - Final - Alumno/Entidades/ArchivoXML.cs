@@ -49,7 +49,7 @@ namespace Entidades
                 XmlSerializer serializer = new XmlSerializer(typeof(Asiento));
                 TextWriter writer = new StreamWriter(path);
                 serializer.Serialize(writer, objeto);
-                writer.Close();                
+                writer.Close();
                 return true;
             }
             catch (Exception e)

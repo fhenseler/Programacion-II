@@ -34,3 +34,6 @@ D:\Escritorio\clasesprog2fh\Parciales Hechos\2do Parcial\Final_Clase_21\Clase_21
 D:\clasesprog2fh\Parciales Hechos\2do Parcial\Final_Clase_21\Clase_21\bin\Debug\Clase_10.exe.config
 D:\clasesprog2fh\Parciales Hechos\2do Parcial\Final_Clase_21\Clase_21\obj\Debug\Clase_10.exe
 D:\clasesprog2fh\Parciales Hechos\2do Parcial\Final_Clase_21\Clase_21\obj\Debug\Clase_10.pdb
+D:\Escritorio\Programacion-II\Clases\Parciales Hechos\2do Parcial\Final_Clase_21\Clase_21\bin\Debug\Clase_10.exe.config
+D:\Escritorio\Programacion-II\Clases\Parciales Hechos\2do Parcial\Final_Clase_21\Clase_21\obj\Debug\Clase_10.exe
+D:\Escritorio\Programacion-II\Clases\Parciales Hechos\2do Parcial\Final_Clase_21\Clase_21\obj\Debug\Clase_10.pdb

@@ -3,3 +3,8 @@ D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Excepciones\bin\Debu
 D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
 D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Excepciones\obj\Debug\Excepciones.dll
 D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\Excepciones\obj\Debug\Excepciones.pdb
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Excepciones\bin\Debug\Excepciones.dll
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Excepciones\bin\Debug\Excepciones.pdb
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Excepciones\obj\Debug\Excepciones.dll
+D:\Escritorio\Programacion-II\Exámenes\20180726 - Final\20180726 - Final - Alumno\Excepciones\obj\Debug\Excepciones.pdb

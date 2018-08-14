@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace Entidades
 {
@@ -10,6 +11,7 @@ namespace Entidades
     // Utilizar la teoría de encapsulamiento en todas las clases.
     // La clase debe ser abstracta
     // Crear un método abstracto llamado ProbarAsiento que retorne un bool.
+    [Serializable()] 
     public abstract class Asiento : ArchivoXML
     {
         private short alto;
@@ -19,6 +21,7 @@ namespace Entidades
         public delegate void ProductoTerminado(Object sender, EventArgs e);
         public event ProductoTerminado FinPruebaCalidad;
 
+        [XmlElement("Alto")]
         public short Alto
         {
             get
@@ -31,6 +34,7 @@ namespace Entidades
             }
         }
 
+        [XmlElement("Ancho")]
         public short Ancho
         {
             get
@@ -43,6 +47,7 @@ namespace Entidades
             }
         }
 
+        [XmlElement("Profundidad")]
         public short Profundidad
         {
             get

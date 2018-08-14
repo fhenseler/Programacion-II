@@ -27,11 +27,12 @@ namespace _20180726___Final
         Thread thread;
         Sofa sofa;
         Random rnd = new Random();
+        Array values = Enum.GetValues(typeof(Sofa.Color));
 
         public FrmPpal()
         {
             InitializeComponent();
-            this.sofa = new Sofa(2, 3, 1, Sofa.Color.Blanco);
+            this.sofa = new Sofa((short)rnd.Next(100), (short)rnd.Next(100), (short)rnd.Next(100), (Sofa.Color)this.values.GetValue(rnd.Next(values.Length)));
             this.lista = new List<Asiento>();
         }
 
@@ -44,7 +45,7 @@ namespace _20180726___Final
         /// <param name="e"></param>
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            sofa.Guardar("Archivo.txt", this.sofa);
+            sofa.Guardar("Archivo.xml", this.sofa);
             this.lista.Add(this.sofa);
             this.rtbMensaje.Text = this.sofa.Leer("Archivo.txt").ToString();
         }
