@@ -13,3 +13,6 @@ D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\bin
 D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\bin\Debug\Excepciones.pdb
 D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\20180726 - Final.exe
 D:\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\20180726 - Final.pdb
+D:\Escritorio\Programacion-II\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\bin\Debug\20180726 - Final.exe.config
+D:\Escritorio\Programacion-II\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\20180726 - Final.exe
+D:\Escritorio\Programacion-II\clasesprog2fh\20180726 - Final\20180726 - Final - Alumno\20180726 - Final\obj\Debug\20180726 - Final.pdb
